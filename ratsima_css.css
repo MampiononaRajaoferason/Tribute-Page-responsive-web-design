@@ -1,0 +1,54 @@
+html{
+  background-color: 
+    rgb(  252, 243, 207 );
+  color:rgb(44, 62, 80);
+}
+
+.uppercase_name{
+  text-transform:uppercase;
+}
+#title{
+  font-family: ;
+  font-size: ;
+  text-align:center;
+ 
+}
+#img-div{
+  width:100%;
+  margin:auto;
+}
+body{
+  font-family:  "Times New Roman", Times, serif;
+  font-size: 1.1rem;
+  margin:0;
+  padding:0;
+}
+#image{
+  width:100%; 
+  text-align:center; 
+  display: block;
+  max-width: 100%;
+  height:auto;
+
+}
+#img-caption{
+  font-size: 18px;
+  text-align:center;
+}
+
+#main{
+  margin-top:25px;
+  box-shadow:solid;
+  text-align:center
+}
+#tribute-info{
+  
+  margin:0 auto;
+  width:40%;
+  text-align:left;
+}
+
+#tribute-link{
+  margin:0auto;
+  text-align: left;
+}
